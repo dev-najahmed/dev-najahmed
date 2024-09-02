@@ -1,7 +1,43 @@
-<h1 align="center">Hi 👋, I'm Naj Ahmed</h1> <h3 align="center">Senior DevOps Engineer | Automation Expert | Cloud Solutions Architect</h3> <p align="left"> <img src="https://komarev.com/ghpvc/?username=dev-najahmed&label=Profile%20views&color=0e75b6&style=flat" alt="dev-najahmed" /> </p>
-🔭 I’m currently dedicated to enhancing and scaling CI/CD pipelines for cloud-native applications, with a focus on ensuring secure, efficient, and seamless deployments.
-🌱 I’m expanding my expertise in advanced Kubernetes deployment strategies while also exploring serverless architectures to drive scalable, event-driven solutions.
-👯 I’m eager to collaborate on cutting-edge DevOps tools and Infrastructure as Code (IaC) projects that elevate automation to new heights.
-💬 Feel free to reach out to me for insights on AWS, Python automation, Bash scripting, CI/CD pipelines, and DevSecOps best practices.
-🛠️ With a strong foundation in security and automation, I specialize in architecting and implementing robust systems that adhere to the highest standards of security and operational excellence.
-<h3 align="left">Connect with me:</h3> <p align="left"> <a href="https://twitter.com/networknaj" target="blank">Twitter</a> | <a href="https://linkedin.com/in/najahmed" target="blank">LinkedIn</a> </p> <h3 align="left">Core Competencies:</h3> <ul> <li><strong>Cloud Platforms:</strong> AWS, Azure, Google Cloud</li> <li><strong>Automation:</strong> Python, Bash, Terraform, Ansible</li> <li><strong>Containerization:</strong> Docker, Kubernetes</li> <li><strong>CI/CD:</strong> Jenkins, GitLab CI, GitHub Actions</li> <li><strong>Monitoring & Logging:</strong> Grafana, Prometheus, ELK Stack</li> <li><strong>Security:</strong> DevSecOps, IAM, Compliance Automation</li> </ul>
+<h1 align="center">Hi there, I'm Naj Ahmed 👋</h1>
+<h3 align="center">Senior DevOps Engineer | Automation Expert | Cloud Solutions Architect</h3>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=dev-najahmed&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+</p>
+
+<p align="center">
+  <a href="https://twitter.com/networknaj">
+    <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" alt="Twitter" />
+  </a>
+  <a href="https://linkedin.com/in/najahmed">
+    <img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white" alt="LinkedIn" />
+  </a>
+</p>
+
+---
+
+### 👨‍💻 About Me
+
+- 🔭 **Current Focus:** Enhancing and scaling CI/CD pipelines for cloud-native applications, with a focus on secure, efficient, and seamless deployments.
+- 🌱 **Learning:** Expanding expertise in advanced Kubernetes deployment strategies and exploring serverless architectures for scalable, event-driven solutions.
+- 👯 **Looking to Collaborate:** On cutting-edge DevOps tools and Infrastructure as Code (IaC) projects that push the boundaries of automation.
+- 💬 **Ask Me About:** AWS, Python automation, Bash scripting, CI/CD pipelines, and DevSecOps best practices.
+- 🛠️ **Strengths:** A strong foundation in security and automation, specializing in architecting and implementing robust systems that adhere to the highest standards of security and operational excellence.
+
+---
+
+### 🛠️ Core Competencies
+
+- **Cloud Platforms:** AWS, Azure, Google Cloud
+- **Automation:** Python, Bash, Terraform, Ansible
+- **Containerization:** Docker, Kubernetes
+- **CI/CD:** Jenkins, GitLab CI, GitHub Actions
+- **Monitoring & Logging:** Grafana, Prometheus, ELK Stack
+- **Security:** DevSecOps, IAM, Compliance Automation
+
+---
+
+### 📫 Let's Connect
+
+- **Twitter:** [@networknaj](https://twitter.com/networknaj)
+- **LinkedIn:** [Naj Ahmed](https://linkedin.com/in/najahmed)
