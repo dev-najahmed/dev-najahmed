@@ -20,6 +20,8 @@
 
 - 🔭 **Current Focus:** Enhancing and scaling CI/CD pipelines for cloud-native applications, with a focus on secure, efficient, and seamless deployments.
 - 🌱 **Learning:** Expanding expertise in advanced Kubernetes deployment strategies and exploring serverless architectures for scalable, event-driven solutions.
+- 🛡️ **Security Expertise:** Extensive experience in performing comprehensive AWS audits using tools like Prowler, ensuring adherence to best practices and compliance requirements.
+- 🔐 **Pipeline Security:** Proficient in building CI/CD pipelines integrated with security checks and controls, utilizing tools such as Checkov, TFSec, and Prowler to maintain robust, secure infrastructures.
 - 👯 **Looking to Collaborate:** On cutting-edge DevOps tools and Infrastructure as Code (IaC) projects that push the boundaries of automation.
 - 💬 **Ask Me About:** AWS, Python automation, Bash scripting, CI/CD pipelines, and DevSecOps best practices.
 - 🛠️ **Strengths:** A strong foundation in security and automation, specializing in architecting and implementing robust systems that adhere to the highest standards of security and operational excellence.
@@ -33,7 +35,7 @@
 - **Containerization:** Docker, Kubernetes
 - **CI/CD:** Jenkins, GitLab CI, GitHub Actions
 - **Monitoring & Logging:** Grafana, Prometheus, ELK Stack
-- **Security:** DevSecOps, IAM, Compliance Automation
+- **Security:** DevSecOps, AWS Audits, Compliance Automation
 
 ---
 
